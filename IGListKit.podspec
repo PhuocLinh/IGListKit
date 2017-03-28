@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name = 'IGListKit'
   s.version = '2.1.0'
   s.summary = 'A data-driven UICollectionView framework.'
-  s.homepage = 'https://github.com/Instagram/IGListKit'
+  s.homepage = 'https://github.com/PhuocLinh/IGListKit'
   s.documentation_url = 'https://instagram.github.io/IGListKit'
   s.description = 'A data-driven UICollectionView framework for building fast and flexible lists.'
 
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.authors = 'Instagram'
   s.social_media_url = 'https://twitter.com/fbOpenSource'
   s.source = {
-    :git => 'https://github.com/Instagram/IGListKit.git',
+    :git => 'https://github.com/PhuocLinh/IGListKit.git',
     :tag => s.version.to_s,
     :branch => 'stable'
   }
